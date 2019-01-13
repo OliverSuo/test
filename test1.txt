@@ -1,3 +1,4 @@
 this is test1.txt
 test1.txt has modified
 test1.txt has modified2
+Creating a new branch is quick
